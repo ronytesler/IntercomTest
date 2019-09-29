@@ -11,6 +11,7 @@ The 'DistanceUtils' class (in the Utils folder) is where the function for calcul
 
 Unit tests can be found in these files: 'DistanceUtilsTest.groovy', 'CustomersNetworkFileRepositoryTest.groovy' and 'CustomerScreenerTest.groovy', and can be run using the IntelliJ.
 Execution explanation can be found in the 'How to execute.docx' I attached in the assignment submission.
+I didn't add comments to the code, as I think it's self explanatory.
 
 I don't handle wrong latitude or longitude values. It's possible to ignore the customer or change the values like done here:
 https://developers.google.com/maps/documentation/javascript/reference/coordinates
