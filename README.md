@@ -9,7 +9,7 @@ The 'CustomersNetworkFileRepository' class (in the Repositories folder) reads th
 The 'Customer' class (in the Models folder) holds the data of a customer. It also supports json serialization and de-serialization, and implements the 'Comparable' interface so we can easily sort the customers list.
 The 'DistanceUtils' class (in the Utils folder) is where the function for calculating the distance between two coordinates is found.
 
-Unit tests can be found in these files: 'DistanceUtilsTest', 'CustomersNetworkFileRepositoryTest' and 'CustomerScreenerTest', and can be run using the IntelliJ.
+Unit tests can be found in these files: 'DistanceUtilsTest.groovy', 'CustomersNetworkFileRepositoryTest.groovy' and 'CustomerScreenerTest.groovy', and can be run using the IntelliJ.
 
 I don't handle wrong latitude or longitude values. It's possible to ignore the customer or change the values like done here:
 https://developers.google.com/maps/documentation/javascript/reference/coordinates
