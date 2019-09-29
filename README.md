@@ -10,6 +10,7 @@ The 'Customer' class (in the Models folder) holds the data of a customer. It als
 The 'DistanceUtils' class (in the Utils folder) is where the function for calculating the distance between two coordinates is found.
 
 Unit tests can be found in these files: 'DistanceUtilsTest.groovy', 'CustomersNetworkFileRepositoryTest.groovy' and 'CustomerScreenerTest.groovy', and can be run using the IntelliJ.
+Execution explanation can be found in the 'How to execute.docx' I attached in the assignment submission.
 
 I don't handle wrong latitude or longitude values. It's possible to ignore the customer or change the values like done here:
 https://developers.google.com/maps/documentation/javascript/reference/coordinates
