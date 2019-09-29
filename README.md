@@ -1,6 +1,5 @@
 # Intercom
 Hi,
-
 The project is a console program written in Java. I used the IntelliJ IDE.
 The entry point of the program is the 'main' function in the 'Main' class in the 'Main.java' file.
 The 'main' function uses the 'CustomerScreener' class to get the list of invited customers and then prints the list.
