@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.code.gson:gson:2.7" type="repository">
+    <properties maven-id="com.google.code.gson:gson:2.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.7/gson-2.7.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
